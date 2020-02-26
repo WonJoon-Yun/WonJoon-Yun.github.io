@@ -16,7 +16,7 @@
    * July 2019 - Present  Learning support system develop / Team Leader  
    * Dec 2019 - Present  Advertising detection and analysis in video using YOLO 
 ## HONORS AND ACHIEVEMENTS
-   * Dec 2019 Object tracking robot with Raspberry pi using YOLO, OpenCV / Team Leader  - Comprehensive design Hardware sector Excellence Prize, Korea University 
+   * Dec 2019 Object tracking robot with Raspberry pi using YOLO, OpenCV / Team Leader  <br>- Comprehensive design Hardware sector Excellence Prize, Korea University 
 ## EXTRACURRICULAR ACTIVITIES 
    * 2015-Present  Unipeace peace exhibition, in-school charge of college union club.
    * 2015-2016   MunhwaCulture, in-school charge of college union club    Vice-Chairman in 2016 
