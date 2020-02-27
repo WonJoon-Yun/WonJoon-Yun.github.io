@@ -21,7 +21,7 @@
 title: "Won-Joon Yun's Develop Note"
 email: "yunwonjoon@gmail.com"
 baseurl: ""
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: ""
 github_username:  "WonJoon-Yun"
 
 # Build settings
@@ -42,18 +42,22 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
-og_image                 : "/assets/images/bio-photo-keyboard.jpg"
+
+# og_image
+og_image                 : ""
+
 # Analytics
 analytics:
   provider               : false # 구글 어날리틱스 등록 false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
+
 # Site Author
 author:
-  name             : "취미코딩하는 개발자"
-  avatar           : "/assets/images/bio-photo-keyboard.jpg"
-  bio              : "회사에서는 월급 받고 집에서는 취미로 코딩하는 개발자"
+  name             : "Won-Joon Yun"
+  avatar           : ""
+  bio              : ""
   location         : "South Korea"
   email            :
   links:
@@ -63,6 +67,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://wonjoon-yun.github.io"
+
 # Site Footer
 footer:
   links:

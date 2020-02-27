@@ -5,7 +5,6 @@ permalink: /about/
 
 Won-Joon Yun
 ------------
-<hr><br>
 
 EMAIL
 ====
